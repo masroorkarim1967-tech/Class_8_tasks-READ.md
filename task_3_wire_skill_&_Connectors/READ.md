@@ -16,9 +16,9 @@ I instructed Claude to select No. 1 (HR_Analytics (Google Sheet)
 ## Demonstartion
 Claude successfully cleaned the provided CSV file and produced the following results:
 
-Input records: 1,480
-Duplicate records removed: 7
-Output records: 1,473
-Missing values handled: The YearsWithCurrManager column contained 57 missing values, which were automatically replaced with the column's average value of 4.12. All other numeric columns were already complete and required no modification.
+-Input records: 1,480
+-Duplicate records removed: 7
+-Output records: 1,473
+-Missing values handled: The YearsWithCurrManager column contained 57 missing values, which were automatically replaced with the column's average value of 4.12. All other numeric columns were already complete and required no modification.
 
 Copies of both the original (uncleaned) and cleaned CSV files are attached for reference.
